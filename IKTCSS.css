@@ -1,5 +1,7 @@
-.body{background-color: burlywood; font-family: sans-serif;}
-.head{text-align: center; font-family: sans-serif; background-color: rgb(228, 205, 175);}
-.footer{text-align: center; background-color: rgb(228, 205, 175);}
+.body{font-family: sans-serif;}
+.head{text-align: center; font-family: sans-serif;}
+.footer{text-align: center; }
 .text{ font-size: larger; text-decoration: underline;}
-.sites{word-spacing: 200%; padding: 5px; float: left; font-size: 17px; background-color: rgb(228, 205, 175);}
+.sites{word-spacing: 200%; padding: 5px; float: left; font-size: 17px;}
+.fotext{font-size: larger;}
+.kep{}
